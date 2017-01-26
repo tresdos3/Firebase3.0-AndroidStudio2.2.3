@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "491819796135",
+    "firebase_url": "https://studiofire-73405.firebaseio.com",
+    "project_id": "studiofire-73405",
+    "storage_bucket": "studiofire-73405.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491819796135:android:b20690fd89470dc6",
+        "android_client_info": {
+          "package_name": "com.example.tresdos.firebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "491819796135-qvg55gbd7lrg1r0fe1c72ndibnvr9gbm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0lntlP7awv4Sct6_AEsRXsSW0dbs6XWk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
